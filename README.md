@@ -1,4 +1,4 @@
-# LinuChat
+# Linu
 Linu is a Your own AI chat service with custom LLM endpoint configurable.
 
 [Download](https://github.com/E13Lau/LinuChat/releases/download/v0.0.2/Linu-v0.0.2.zip)
